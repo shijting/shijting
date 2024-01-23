@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 目前正在从事Golang后端开发工作
+📫 我的邮箱【1269879928@qq.com】
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijting)](https://github.com/anuraghazra/github-readme-stats)
