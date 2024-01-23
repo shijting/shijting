@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 📫 我的邮箱【1269879928@qq.com】
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijting&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijting&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
