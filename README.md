@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=donut&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![shijting's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijting&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
