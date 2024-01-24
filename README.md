@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 目前正在从事Golang和Python后端开发工作
-- 📫 我的邮箱: 1269879928@qq.com
+- 📫 我的邮箱: shjting0510@gmail.com
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=donut&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL)](https://github.com/anuraghazra/github-readme-stats)
-
-[![shijting's GitHub stats](https://github-readme-stats.vercel.app/api?username=shijting&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL)
 
