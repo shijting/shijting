@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://changkun.de/urlstat?mode=github&repo=shijting/shijting" align="right" style="margin: 5px; margin-bottom: 20px;" />
 <!--
 **shijting/shijting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
