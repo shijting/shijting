@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!--
 
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL,C&theme=radical&show_icons=true)
-
+<div>
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=shijting&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL,C&theme=radical&show_icons=true)
+</div>
