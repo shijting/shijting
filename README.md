@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://changkun.de/urlstat?mode=github&repo=shijting/shijting" align="right" style="margin: 5px; margin-bottom: 20px;" />
+![madneal's github stats](https://changkun.de/urlstat?mode=github&repo=shijting/shijting)
 <!--
 **shijting/shijting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 目前正在从事Golang和Python后端开发工作
 - 📫 我的邮箱: shjting0510@gmail.com
-<!--
 
--->
 
 ![madneal's github stats](https://github-readme-stats.vercel.app/api?username=shijting&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL,C&theme=radical&show_icons=true)
