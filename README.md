@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 目前正在从事Golang和Python后端开发工作
-- 📫 我的邮箱: shjting0510@gmail.com
+- 📫 我的邮箱: 1269879928@qq.com/shjting0510@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shijting&layout=compact&hide=TSQL,C&theme=radical&show_icons=true)
 
